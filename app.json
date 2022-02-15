@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "hingt",
+  "description": "hingt",
   "keywords": [
-    "vmess or vles"
+    "hingt"
   ],
   "env": {
     "PROTOCOL": {
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/catfsl/jttro",
+  "repository": "https://github.com/catfsl/jttro",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
